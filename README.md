@@ -2,27 +2,21 @@
 
 ## Project Challenge
 
-#### **Develop a web-based trivia app to raise awareness of an important health issue in your community.**
+### **Develop a web-based chatbot to raise awareness of an important health issue in your community.**
 
 ## Teams
 
-Teams of 3 students will collaborate to build a web-based trivia app. Each team will be responsible for determining member roles, maintaining good communication, ensuring equitable contributions, and providing clear project updates to the class in a timely manner.
+Teams of 3 students will collaborate to build a chatbot. Each team will be responsible for determining member roles, maintaining good communication, ensuring equitable contributions, and providing clear project updates to the class in a timely manner.
 
 ## Final Deliverables
 
 Each stage of the project has a set of deliverables, but they lead up to the following final deliverables from the team.
 
-* **A public trivia app** that has been tested, refined, and prepared for demonstration at the end event.
-  * At least four categories of questions related to a community health issue\(s\).
-  * At least 40 total questions.
-  * A distinct style created by the team.
-  * A countdown mechanism that encourages each player’s engagement.
-  * A metric that provides the player with feedback on his or her performance.
-  * At least two sound effects.
-  * At least two images or advanced visual effects.
-* **A poster** \(2’ x 3’\) summarizing the process of creating your trivia app \(including artifacts created, like sketches, prototypes etc.\), along with defining features of the final design.
-* **A marketing card** \(3” x 5”\) that promotes your team’s trivia game with classmates and the community.
-* **A well-coordinated presentation** that demonstrates the trivia app and explains the process of developing it to visitors of your school.
+* **A public web-based chatbot** that has been tested, refined, and prepared for demonstration at the end event.
+  * 
+* **A poster** \(2’ x 3’\) summarizing the process of creating your chatbot \(including artifacts created, like sketches, prototypes etc.\), along with defining features of the final design.
+* **A marketing card** \(3” x 5”\) that promotes your team’s chatbot with classmates and the community.
+* **A well-coordinated presentation** that demonstrates the chatbot and explains the process of developing it to visitors of your school.
 * **A prepared personal perspective** for you, as an individual, to share your unique responsibilities and experiences during the project, including how your future goals and interests have been shaped.
 
 ## Recommended Production Tools
@@ -35,15 +29,15 @@ Each stage of the project has a set of deliverables, but they lead up to the fol
 
 ## Learning Objectives
 
-#### Why Do This Project?
+### Why Do This Project?
 
-Of course you are going to create an awesome trivia game to benefit others, but you will also get first-hand experience in informatics and computing that reflect great opportunities in the field. You will...
+Of course you are going to create an awesome chatbot to benefit others, but you will also get first-hand experience in informatics and computing that reflect great opportunities in the field. You will...
 
 * **Build skills** in the digital arts, programming, and data.
 * **Collaborate with a team** where tech skills, people skills, and design skills overlap.
 * **Increase your intuition, confidence, and curiosity** in solving problems using a ‘_design, build and test_’ pattern common with scientific thinking, creative thinking, and critical thinking.
 
-#### What's Different About This?
+### What's Different About This?
 
 This is different than learning from a textbook. While you are encouraged to complete tutorials in a particular skill area to build expertise, this project will challenge you in the following ways.
 
@@ -52,7 +46,7 @@ This is different than learning from a textbook. While you are encouraged to com
 * **Collaborating** - You will have to be a productive team member, fulfilling a role, communicating clearly, and valuing each team member's views at decision points.
 * **Presentation** - Your team will often present work to the class, and occasionally to visitors, to get feedback and share ideas with other teams.
 
-#### Key Concepts
+### Key Concepts
 
 You will investigate the following key concepts related to computing.
 
@@ -60,13 +54,13 @@ You will investigate the following key concepts related to computing.
 | :--- | :--- | :--- |
 | How computers can store and represent information. `HTML, Spreadsheet Tables, and CSV files` | How humans see and organize information, and how to create visual interfaces. `Interface design, CSS, Data Charts, and Illustration` | How humans make decisions and choose actions, and how computers process data and interactions. `Interaction Design, Task Analysis, JavaScript, Spreadsheet Functions, Descriptive Statistics` |
 
-#### Key Practices
+### Key Practices
 
 | Critical and Computational Thinking | Creative Thinking | Collaboration + Communication |
 | :--- | :--- | :--- |
 | You will practice independent-learning to become confident in obtaining valuable information and understanding the leverage computers can offer to solve problems. | You will often use divergent thinking and a “design, build, test” cycle that supports an agile environment rooted in the scientific method and common creative processes. | You will thoughtfully reflect on techniques and attitudes for successful collaboration and communication in project groups, as well as sharing your work with those outside of class. |
 
-#### Implementation Suggestions
+### Implementation Suggestions
 
 While this digital book guides your project work, below are important suggestions for a well-rounded learning experience using supplemental activities.
 
