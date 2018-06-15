@@ -1,7 +1,7 @@
 # Project Challenge and Background
 
 {% hint style="danger" %}
-UPDATE IN PROGRESS: This document is undergoing a major update. Please check back later. June 5, 2018
+**UPDATE IN PROGRESS:** This project guidebook is undergoing a major update to replace the [old version](https://docs.idew.org/chatbot/). Please check back later. _Notice posted: June 5, 2018_
 {% endhint %}
 
 ## Project Challenge
