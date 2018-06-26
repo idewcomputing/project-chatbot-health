@@ -22,9 +22,9 @@ It is difficult to keep up with all the new technology advances. So each student
 [**ReadWrite**](http://readwrite.com/)  
 [**Indiegogo**](https://www.indiegogo.com/explore/technology\#/browse/popular\_all)
 [**Wired**](http://www.wired.com/)  
-[**The Verge**](http://www.theverge.com](http://www.theverge.com)  
+[**The Verge**](http://www.theverge.com)  
 [**Fast Company**](http://www.fastcompany.com/)  
-[**MIT Technology Review**](http://www.technologyreview.com/](http://www.technologyreview.com/)  
+[**MIT Technology Review**](http://www.technologyreview.com/)  
 [**Kickstarter**](https://www.kickstarter.com/)  
 [**IFTTT Channels**](https://ifttt.com/channels)
 
