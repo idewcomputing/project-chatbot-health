@@ -20,7 +20,7 @@ It is difficult to keep up with all the new technology advances. So each student
 
 **Possible Resources:**  
 [**ReadWrite**](http://readwrite.com/)  
-[**Indiegogo**](https://www.indiegogo.com/explore/technology\#/browse/popular\_all)
+[**Indiegogo**](https://www.indiegogo.com/explore/technology#/browse/popular_all)   
 [**Wired**](http://www.wired.com/)  
 [**The Verge**](http://www.theverge.com)  
 [**Fast Company**](http://www.fastcompany.com/)  
