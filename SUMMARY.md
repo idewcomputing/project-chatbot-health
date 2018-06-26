@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Chatbot for Improved Health and Wellness](README.md)
+* [Intro to Chatbots](intro-to-chatbots.md)
 * [Challenge & Background](challenge-and-background/README.md)
   * [Skills & Exploration](challenge-and-background/skills-and-exploration.md)
 
@@ -28,7 +29,6 @@
   * [3.2 Initial Question Analysis](project-instructions/3-evaluate-and-refine-solution/3.2-initial-question-analysis.md)
   * [3.3 App Refinements](project-instructions/3-evaluate-and-refine-solution/3.3-app-refinements.md)
   * [3.4 Poster](project-instructions/3-evaluate-and-refine-solution/3.4-poster.md)
-  * [Intro to Chatbots](project-instructions/3-evaluate-and-refine-solution/intro-to-chatbots.md)
   * [3.5 Prepare for Poster Review and Trivia Demonstration](project-instructions/3-evaluate-and-refine-solution/3.5-prepare-for-poster-review-and-trivia-demonstration.md)
 * [4 Share Project with Public](project-instructions/4-share-project-with-public/README.md)
   * [4.1 Public Presentation Plan and Practice](project-instructions/4-share-project-with-public/4.1-public-presentation-plan-and-practice.md)
