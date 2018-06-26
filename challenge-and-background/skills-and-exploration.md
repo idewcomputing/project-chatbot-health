@@ -20,13 +20,13 @@ It is difficult to keep up with all the new technology advances. So each student
 
 **Possible Resources:**  
 [**ReadWrite**](http://readwrite.com/)  
-**\*\*\[**Indiegogo**\]\(**[https://www.indiegogo.com/explore/technology\#/browse/popular\_all](https://www.indiegogo.com/explore/technology#/browse/popular_all)**\)  
-\*\***[**Wired**](http://www.wired.com/)  
-**\*\*\[**The Verge**\]\(**[http://www.theverge.com](http://www.theverge.com)**\)  
-\*\***[**Fast Company**](http://www.fastcompany.com/)  
-**\*\*\[**MIT Technology Review**\]\(**[http://www.technologyreview.com/](http://www.technologyreview.com/)**\)  
-\*\***[**Kickstarter**](https://www.kickstarter.com/)  
-**\*\*\[**IFTTT Channels\*\*\]\([https://ifttt.com/channels](https://ifttt.com/channels)\)
+[**Indiegogo**](https://www.indiegogo.com/explore/technology\#/browse/popular\_all)
+[**Wired**](http://www.wired.com/)  
+[**The Verge**](http://www.theverge.com](http://www.theverge.com)  
+[**Fast Company**](http://www.fastcompany.com/)  
+[**MIT Technology Review**](http://www.technologyreview.com/](http://www.technologyreview.com/)  
+[**Kickstarter**](https://www.kickstarter.com/)  
+[**IFTTT Channels**](https://ifttt.com/channels)
 
 **Standard Deliverable ✓**  
 Prepare a slide presentation \(3 or more slides\) that covers the following three items. Be sure to research a cutting edge idea--either a new product that breaks the mold or a concept that is only in research.
