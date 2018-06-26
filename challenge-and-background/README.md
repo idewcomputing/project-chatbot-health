@@ -14,7 +14,7 @@ There are many health issues to consider that impact our communities. Your team 
 
 Each project team will follow a process to thoughtfully develop a chatbot while practicing a diverse set of skills in a collaborative environment.
 
-![](https://github.com/idewcomputing/project-chatbot-health/tree/05b79c907d317e02f09936002944a0bfdfbffd18/.gitbook/assets/trivia-phases-drawing-alpha%20%281%29.png)
+![](../.gitbook/assets/trivia-phases-drawing-alpha.png)
 
 ## Teams
 
