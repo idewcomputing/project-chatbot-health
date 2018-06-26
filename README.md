@@ -1,4 +1,4 @@
-# Trivia for Improved Health and Wellness
+# Chatbot for Improved Health and Wellness
 
 Copyright © 2018 Jim Lyst and Michael Frontz, Indiana University School of Informatics and Computing at IUPUI
 

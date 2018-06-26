@@ -1,6 +1,6 @@
 # 1 Discover & Define Problem
 
-![](../../.gitbook/assets/trivia-phase-1-drawing-alpha-reduced.png)
+![](https://github.com/idewcomputing/project-chatbot-health/tree/05b79c907d317e02f09936002944a0bfdfbffd18/.gitbook/assets/trivia-phase-1-drawing-alpha-reduced.png)
 
 In this phase you well begin to **frame the goals** of your team's design by learning about these important aspects.
 

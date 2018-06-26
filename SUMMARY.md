@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Trivia for Improved Health and Wellness](README.md)
+* [Chatbot for Improved Health and Wellness](README.md)
 * [Challenge & Background](challenge-and-background/README.md)
-  * [Prerequisite Experience](https://docs.idew.org/code-trivia/prerequisites)
   * [Skills & Exploration](challenge-and-background/skills-and-exploration.md)
-* [Intro Exercises](https://docs.idew.org/intro-to-learning/)
 
 ## Project Instructions
 
@@ -39,8 +37,7 @@
 
 ## Reference
 
-* [Trivia Code Docs](https://cxd.gitbook.io/code-trivia)
-* [P5.js](https://p5js.org/)
+* [Chatbot Code Docs](https://docs.idew.org/code-chatbot/)
 
 ## Ignore Below \(Testing\)
 

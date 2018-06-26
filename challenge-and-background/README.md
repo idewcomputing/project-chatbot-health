@@ -1,10 +1,10 @@
 # Challenge & Background
 
-![](../.gitbook/assets/trivia-health-challenge-reduced%20%282%29.png)
+![](../.gitbook/assets/chatbot-health-challenge-reduced.fw.png)
 
-There are many health issues to consider that impact our communities. Your team will want to carefully choose a topic that is important to each team member and that can be positively engaged through a well-designed trivia game.
+There are many health issues to consider that impact our communities. Your team will want to carefully choose a topic that is important to each team member and that can be positively engaged through a well-designed chatbot experience.
 
-#### General Topics to consider
+### General Topics to consider
 
 | Opioid Addiction Mental Health Obesity | Diabetes Alcoholism Heart Disease | Cancer Nutrition Fitness |
 | --- |
@@ -12,31 +12,28 @@ There are many health issues to consider that impact our communities. Your team 
 
 ## Process
 
-Each project team will follow a process to thoughtfully develop a trivia app while practicing a diverse set of skills in a collaborative environment.
+Each project team will follow a process to thoughtfully develop a chatbot while practicing a diverse set of skills in a collaborative environment.
 
-![](../.gitbook/assets/trivia-phases-drawing-alpha%20%281%29.png)
+![](https://github.com/idewcomputing/project-chatbot-health/tree/05b79c907d317e02f09936002944a0bfdfbffd18/.gitbook/assets/trivia-phases-drawing-alpha%20%281%29.png)
 
 ## Teams
 
-Teams of 3 students will collaborate to build a web-based trivia app. Each team will be responsible for determining member roles, maintaining good communication, ensuring equitable contributions, and providing clear project updates to the class in a timely manner.
+Teams of 3 students will collaborate to build a web-based chatbot. Each team will be responsible for determining member roles, maintaining good communication, ensuring equitable contributions, and providing clear project updates to the class in a timely manner.
 
 ## Technology
 
-Teams will begin with a [**trivia app template**](https://cxd.gitbook.io/code-trivia) as a framework to build their customized solution. The template consists of HTML/CSS/Javascript as well as a simple cloud database for organizing trivia question items.
+Teams will begin with a **chatbot template** as a framework to build their customized solution. The template consists of HTML/CSS/Javascript as well as a simple chatbot script to control the conversation flow.
 
 ## Final Deliverables
 
 Each stage of the project has a set of deliverables, but they lead up to the following final deliverables from the team.
 
-* **A public trivia app** that has been tested, refined, and prepared for demonstration at the end event.
-  * At least 20 total questions.
+* **A public chatbot** that has been tested, refined, and prepared for demonstration at the end event.
   * A distinct style created by the team.
-  * A metric that provides the player with feedback on his or her performance.
-  * At least two sound effects.
-  * At least two advanced visual effects.
-* **A poster** \(2’ x 3’\) summarizing the process of creating your trivia app \(including artifacts created, like sketches, prototypes etc.\), along with defining features of the final design.
-* **A marketing card** \(3” x 5”\) that promotes your team’s trivia game with classmates and the community.
-* **A well-coordinated presentation** that demonstrates the trivia app and explains the process of developing it to visitors of your school.
+  * 
+* **A poster** \(2’ x 3’\) summarizing the process of creating your chatbot \(including artifacts created, like sketches, prototypes etc.\), along with defining features of the final design.
+* **A marketing card** \(3” x 5”\) that promotes your team’s chatbot with classmates and the community.
+* **A well-coordinated presentation** that demonstrates the chatbot and explains the process of developing it to visitors of your school.
 * **A prepared personal perspective** for you, as an individual, to share your unique responsibilities and experiences during the project, including how your future goals and interests have been shaped.
 
 ## Recommended Production Tools
@@ -49,15 +46,15 @@ Each stage of the project has a set of deliverables, but they lead up to the fol
 
 ## Learning Objectives
 
-#### Why Do This Project?
+### Why Do This Project?
 
-Of course you are going to create an awesome trivia game to benefit others, but you will also get first-hand experience in informatics and computing that reflect great opportunities in the field. You will...
+Of course you are going to create an awesome chatbot to benefit others, but you will also get first-hand experience in informatics and computing that reflect great opportunities in the field. You will...
 
 * **Build skills** in the digital arts, programming, and data.
 * **Collaborate with a team** where tech skills, people skills, and design skills overlap.
 * **Increase your intuition, confidence, and curiosity** in solving problems using a ‘_design, build and test_’ pattern common with scientific thinking, creative thinking, and critical thinking.
 
-#### What's Different About This?
+### What's Different About This?
 
 This is different than learning from a textbook. While you are encouraged to complete tutorials in a particular skill area to build expertise, this project will challenge you in the following ways.
 
@@ -66,7 +63,7 @@ This is different than learning from a textbook. While you are encouraged to com
 * **Collaborating** - You will have to be a productive team member, fulfilling a role, communicating clearly, and valuing each team member's views at decision points.
 * **Presentation** - Your team will often present work to the class, and occasionally to visitors, to get feedback and share ideas with other teams.
 
-#### Key Concepts
+### Key Concepts
 
 You will investigate the following key concepts related to computing.
 
@@ -74,7 +71,7 @@ You will investigate the following key concepts related to computing.
 | :--- | :--- | :--- |
 | How computers can store and represent information. `HTML, Spreadsheet Tables, and CSV files` | How humans see and organize information, and how to create visual interfaces. `Interface design, CSS, Data Charts, and Illustration` | How humans make decisions and choose actions, and how computers process data and interactions. `Interaction Design, Task Analysis, JavaScript, Spreadsheet Functions, Descriptive Statistics` |
 
-#### Key Practices
+### Key Practices
 
 | Critical and Computational Thinking | Creative Thinking | Collaboration + Communication |
 | :--- | :--- | :--- |
