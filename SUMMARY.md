@@ -20,7 +20,7 @@
   * [2.1 Database Development](project-instructions/2-design-and-build-solution/2.1-database-development.md)
   * [2.2 Sample Dialogues](project-instructions/2-design-and-build-solution/2.2-sample-dialogues.md)
   * [2.3 Pseudocode Functions](project-instructions/2-design-and-build-solution/2.3-pseudocode-functions.md)
-  * [2.4 Dialogue Evaluations](project-instructions/2-design-and-build-solution/2.4-dialogue-evaluations.md)
+  * [2.4 Develop Complete Dialogue Script](project-instructions/2-design-and-build-solution/2.4-dialogue-evaluations.md)
   * [2.5 Style Guide](project-instructions/2-design-and-build-solution/2.5-style-guide.md)
   * [2.6 Code Development Outline and Begin Coding](project-instructions/2-design-and-build-solution/2.5-code-development-outline-and-begin-coding.md)
   * [2.7 Marketing card](project-instructions/2-design-and-build-solution/2.6-marketing-card.md)
