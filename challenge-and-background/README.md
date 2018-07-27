@@ -28,9 +28,10 @@ Teams will begin with a **chatbot template** as a framework to build their custo
 
 Each stage of the project has a set of deliverables, but they lead up to the following final deliverables from the team.
 
-* **A public chatbot** that has been tested, refined, and prepared for demonstration at the end event.
-  * A distinct style created by the team.
-  * 
+* **A public chatbot** that has been tested, refined, and prepared for demonstration at the semester-end event with the following minimum requirements.
+  * A unique style created by the team.
+  * Three topic distinct areas for the chatbot to address for the user.
+  * A background database \(using Google sheets\) that provide a _knowledge_ _base_ for the chatbot.
 * **A poster** \(2’ x 3’\) summarizing the process of creating your chatbot \(including artifacts created, like sketches, prototypes etc.\), along with defining features of the final design.
 * **A marketing card** \(3” x 5”\) that promotes your team’s chatbot with classmates and the community.
 * **A well-coordinated presentation** that demonstrates the chatbot and explains the process of developing it to visitors of your school.
@@ -39,7 +40,7 @@ Each stage of the project has a set of deliverables, but they lead up to the fol
 ## Recommended Production Tools
 
 * [Google Drive](https://drive.google.com) - for team file management and Docs, Sheets, Slides, and Drawings.
-* [CodePen](https://codepen.io) - For code practice exercises. Also, _CodePen Projects_ is a potential choice as a code editor for the trivia project.
+* [Repl.it](https://repl.it/) - For code environment for warm-up project and team chatbot project.
 * [Marvel App](https://marvelapp.com) - A digital prototyping tool.
 * Analog Tools - Paper, pencils, markers, whiteboards, and sticky notes are valuable on any day.
 * Digital Camera / Phone - Photographs of sketches, paper notes and whiteboard notes.
