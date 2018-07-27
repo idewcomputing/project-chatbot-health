@@ -8,7 +8,7 @@
 ## Project Instructions
 
 * [1 Discover & Define Problem](project-instructions/1-discover-and-define-problem/README.md)
-  * [1.1 Chatbot Code Tutorial](project-instructions/1-discover-and-define-problem/1.1-chatbot-code-tutorial.md)
+  * [1.1 Warm-Up Project](project-instructions/1-discover-and-define-problem/1.1-chatbot-code-tutorial.md)
   * [1.2 Initial Ideas](project-instructions/1-discover-and-define-problem/1.2-initial-ideas.md)
   * [1.3 Background Research](project-instructions/1-discover-and-define-problem/1.3-background-research.md)
   * [1.4 Personas](project-instructions/1-discover-and-define-problem/1.4-personas.md)
