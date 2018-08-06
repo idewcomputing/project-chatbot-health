@@ -6,8 +6,8 @@ There are many health issues to consider that impact our communities. Your team 
 
 ### General Topics to consider
 
-| Opioid Addiction Mental Health Obesity | Diabetes Alcoholism Heart Disease | Cancer Nutrition Fitness |
-| --- |
+| Opioid Addiction  Mental Health  Obesity | Diabetes  Alcoholism  Heart Disease | Cancer  Nutrition  Fitness |
+| :--- | :--- | :--- |
 
 
 ## Process
@@ -92,6 +92,6 @@ While this digital book guides your project work, below are important suggestion
 **Weekly Schedule** - A predictable pattern to the week may help. For example...
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- |
 | Project | Project | Project | Independent Skills | Visitors & Exploration Reports |
 
