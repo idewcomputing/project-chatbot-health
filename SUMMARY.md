@@ -28,7 +28,7 @@
   * [2.9 Prepare Development Review and Demonstration](project-instructions/2-design-and-build-solution/2.8-prepare-development-review-and-demonstration.md)
 * [3 Evaluate & Refine Solution](project-instructions/3-evaluate-and-refine-solution/README.md)
   * [3.1 Evaluation and Post Interview](project-instructions/3-evaluate-and-refine-solution/3.1-evaluation-and-post-interview.md)
-  * [3.2 Initial Chat Analysis](project-instructions/3-evaluate-and-refine-solution/3.2-initial-question-analysis.md)
+  * [3.2 Chatbot Usage Analysis](project-instructions/3-evaluate-and-refine-solution/3.2-initial-question-analysis.md)
   * [3.3 App Refinements](project-instructions/3-evaluate-and-refine-solution/3.3-app-refinements.md)
   * [3.4 Poster](project-instructions/3-evaluate-and-refine-solution/3.4-poster.md)
   * [3.5 Prepare for Poster Review and Trivia Demonstration](project-instructions/3-evaluate-and-refine-solution/3.5-prepare-for-poster-review-and-trivia-demonstration.md)
