@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Chatbot for Improved Health and Wellness](README.md)
-* [Intro to Chatbots](intro-to-chatbots.md)
+* [Chatbot Introduction](README.md)
 * [Challenge & Background](challenge-and-background/README.md)
   * [Skills & Exploration](challenge-and-background/skills-and-exploration.md)
 
