@@ -10,8 +10,7 @@ Now is the time to refine all the details, review the process your team used to 
 | Individual Reflection | 1 hour |
 | Present to Public | 1 hour |
 | Celebrate | 1 hour |
-| Concept Narrowing | 1 hour |
-| Task Analysis | 1 hour |
-| Value Proposition | 1 hour |
-| Team Proposal | 1 hour |
+|  |  |
+|  |  |
+|  |  |
 
