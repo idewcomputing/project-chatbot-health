@@ -31,10 +31,10 @@
   * [3.3 App Refinements](project-instructions/3-evaluate-and-refine-solution/3.3-app-refinements.md)
   * [3.4 Poster](project-instructions/3-evaluate-and-refine-solution/3.4-poster.md)
   * [3.5 Prepare for Poster Review and Demonstration](project-instructions/3-evaluate-and-refine-solution/3.5-prepare-for-poster-review-and-trivia-demonstration.md)
-  * [4.1 Public Presentation Plan and Practice](project-instructions/3-evaluate-and-refine-solution/4.1-public-presentation-plan-and-practice.md)
-  * [4.2 Individual Reflection](project-instructions/3-evaluate-and-refine-solution/4.2-individual-reflection.md)
-  * [4.3 Present to the public](project-instructions/3-evaluate-and-refine-solution/4.3-present-to-the-public.md)
-  * [4.4 Celebrate](project-instructions/3-evaluate-and-refine-solution/4.4-celebrate.md)
+  * [3.6 Public Presentation Plan and Practice](project-instructions/3-evaluate-and-refine-solution/3.6-public-presentation-plan-and-practice.md)
+  * [3.7 Individual Reflection](project-instructions/3-evaluate-and-refine-solution/3.7-individual-reflection.md)
+  * [3.8 Present to the public](project-instructions/3-evaluate-and-refine-solution/3.8-present-to-the-public.md)
+  * [3.9 Celebrate](project-instructions/3-evaluate-and-refine-solution/3.9-celebrate.md)
 
 ## Reference
 
