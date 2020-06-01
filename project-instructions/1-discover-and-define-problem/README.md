@@ -1,4 +1,4 @@
-# 1 Discover & Define Problem
+# 1 Define Problem & Propose Solution
 
 ![](../../.gitbook/assets/assets-2f-ldwzthmrxo6grtrobeo-2f-leq8v-l40twn-spaxcb-2f-leq8xxom1mfs_igwuz_-2ftrivia-phase-1-drawing.png)
 
