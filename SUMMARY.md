@@ -13,7 +13,7 @@
   * [1.4 Personas](project-instructions/1-discover-and-define-problem/1.4-personas.md)
   * [1.5 Concept Narrowing](project-instructions/1-discover-and-define-problem/1.5-concept-narrowing.md)
   * [1.6 Task Analysis](project-instructions/1-discover-and-define-problem/1.6-task-analysis.md)
-  * [1.7 Value Proposition](project-instructions/1-discover-and-define-problem/1.7-value-proposition.md)
+  * [1.7 Value Proposition & Features](project-instructions/1-discover-and-define-problem/1.7-value-proposition.md)
   * [1.8 Team Proposal](project-instructions/1-discover-and-define-problem/1.8-team-proposal.md)
 * [2 Design & Build Solution](project-instructions/2-design-and-build-solution/README.md)
   * [2.1 Database Development](project-instructions/2-design-and-build-solution/2.1-database-development.md)
