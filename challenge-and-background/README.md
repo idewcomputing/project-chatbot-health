@@ -1,14 +1,10 @@
 # Challenge & Background
 
-![](../.gitbook/assets/chatbot-health-challenge-reduced.fw.png)
+## Challenge
 
-There are many health issues to consider that impact our communities. Your team will want to carefully choose a topic that is important to each team member and that can be positively engaged through a well-designed chatbot experience.
+> A chatbot is often used to guide people to solutions to a particular set of problems, like product support, or to raise awareness about a topic based on the visitors responses to initial prompts. Your team will consider many possible applications of chatbots as you do background research and work through tutorials. **Ultimately, your team will want to carefully choose a topic that is important to each team member and that can be positively engaged through a well-designed chatbot experience.**
 
-### General Topics to consider
-
-| Opioid Addiction  Mental Health  Obesity | Diabetes  Alcoholism  Heart Disease | Cancer  Nutrition  Fitness |
-| :--- | :--- | :--- |
-
+**General Topics to Consider:** Health information, product help, hobby resource, civic participation, sports data, entertainment events ...
 
 ## Process
 
